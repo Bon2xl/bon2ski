@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bon2ski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning laravel and nodejs
+- 👀 I’m interested in Javascript and Python
+- 🌱 I’m currently working my chrome app JACK
 - 📫 How to reach me ...
 
 <!---
